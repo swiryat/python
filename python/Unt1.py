@@ -1,6 +1,0 @@
-answer=get_string('What`s your name?')
-print('Helo, '+ answer)
-print('Helo,', answer)
-print('Helo, + {answer}')
-
-

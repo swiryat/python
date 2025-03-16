@@ -1,3 +1,0 @@
-Scanning Target: 192.168.1.1
-Scanning started at: 2024-11-13 22:10:46.392868
-
