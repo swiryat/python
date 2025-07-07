@@ -1,0 +1,61 @@
+<script>
+  const btn         = document.getElementById('drawBtn');
+  const spinner     = document.getElementById('spinner');
+  const rolling     = document.getElementById('rolling');
+  const result      = document.getElementById('result');
+
+  // Заранее известный «выигрышный» билет
+  const finalTicket = '318 597 160 46';
+
+  // Генерация рандомного «превью»
+  function randomTicketPreview() {
+    const d = Array.from({length:11}, () => Math.floor(Math.random() * 10));
+    return `${d.slice(0,3).join('')}${d.slice(3,6).join('')}`.match(/.{1,3}/g).join(' ') 
+           + ' ' + d.slice(9).join('');
+  }
+
+  btn.addEventListener('click', () => {
+    btn.disabled          = true;
+    result.textContent    = '';
+    spinner.style.display = 'block';
+    rolling.style.display = 'block';
+
+    let tickCount = 0;
+    const intervalId = setInterval(() => {
+      tickCount++;
+
+      // Каждые 10 итераций показываем финальный билет
+      let preview = (tickCount % 10 === 0)
+        ? finalTicket
+        : randomTicketPreview();
+
+      // Оборачиваем каждую цифру в спан для мигания
+      rolling.innerHTML = preview
+        .split('')
+        .map(ch => `<span class="digit">${ch}</span>`)
+        .join('');
+    }, 100);
+
+    fetch('/api/draw')
+      .then(res => {
+        if (!res.ok) throw new Error(res.statusText);
+        return res.json();
+      })
+      .then(data => {
+        setTimeout(() => {
+          clearInterval(intervalId);
+          spinner.style.display = 'none';
+          rolling.style.display = 'none';
+          result.textContent    = `Выигрышный билет: ${data.ticket}`;
+          btn.disabled          = false;
+        }, 1000);
+      })
+      .catch(err => {
+        clearInterval(intervalId);
+        spinner.style.display = 'none';
+        rolling.style.display = 'none';
+        result.textContent    = `Ошибка розыгрыша: ${err.message}`;
+        btn.disabled          = false;
+      });
+  });
+</script>
