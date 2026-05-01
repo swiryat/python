@@ -8,6 +8,7 @@ Organized content for easier inspection and repair.
 - `scripts/duplicates/` — duplicate/versioned copies and special backups.
 - `scripts/projects/` — grouped sub-project folders extracted from the repository root.
 - `assets/` — miscellaneous data files, assets, and external modules.
+- `education/` — Python notebooks for advanced learning, data science and task practice.
 
 ## Notes
 
