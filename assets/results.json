@@ -1,0 +1,1289 @@
+[
+    {
+        "ip": "192.168.0.9",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.24",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.14",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.6",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.0",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.33",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.30",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.36",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.17",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.5",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.27",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.11",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.2",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.7",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.10",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.45",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.15",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.35",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.37",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.18",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.43",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.4",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.48",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.41",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.46",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.49",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.20",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.31",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.21",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.38",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.13",
+        "open_ports": [
+            80
+        ],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.22",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.32",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.42",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.26",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.28",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.16",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.1",
+        "open_ports": [
+            443,
+            80
+        ],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.44",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.23",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.8",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.40",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.25",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.3",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.12",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.39",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.34",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.29",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.47",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.19",
+        "open_ports": [
+            80
+        ],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.52",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.50",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.58",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.55",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.66",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.63",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.60",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.64",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.87",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.56",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.59",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.81",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.93",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.69",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.68",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.84",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.75",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.72",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.95",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.90",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.73",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.78",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.97",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.91",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.77",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.57",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.70",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.80",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.82",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.96",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.79",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.98",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.67",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.92",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.89",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.62",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.86",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.74",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.88",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.51",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.54",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.83",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.53",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.65",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.94",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.71",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.76",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.99",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.85",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.61",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.102",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.100",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.104",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.106",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.101",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.105",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.103",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.128",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.134",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.137",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.109",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.138",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.110",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.112",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.119",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.124",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.126",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.132",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.133",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.107",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.111",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.129",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.140",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.118",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.122",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.141",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.115",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.108",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.114",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.123",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.117",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.136",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.125",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.139",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.127",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.142",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.145",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.130",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.113",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.135",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.131",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.144",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.116",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.121",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.120",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.143",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.148",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.147",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.146",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.149",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.152",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.156",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.154",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.153",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.151",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.150",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.155",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.162",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.176",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.175",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.179",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.166",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.174",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.157",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.171",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.160",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.165",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.170",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.163",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.168",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.188",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.198",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.185",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.196",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.191",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.181",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.192",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.172",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.195",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.190",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.182",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.173",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.180",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.158",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.159",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.177",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.183",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.169",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.184",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.161",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.187",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.194",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.193",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.164",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.189",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.167",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.199",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.178",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.197",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.186",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.205",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.213",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.217",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.208",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.219",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.204",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.201",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.203",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.211",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.210",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.218",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.202",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.207",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.214",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.206",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.212",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.209",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.216",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.200",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.215",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.255",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.223",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.240",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.226",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.221",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.225",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.228",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.241",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.243",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.230",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.231",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.238",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.247",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.244",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.242",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.233",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.236",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.222",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.234",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.220",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.237",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.227",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.239",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.232",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.235",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.245",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.229",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.249",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.248",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.246",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.224",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.251",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.252",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.253",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.250",
+        "open_ports": [],
+        "vulnerabilities": []
+    },
+    {
+        "ip": "192.168.0.254",
+        "open_ports": [],
+        "vulnerabilities": []
+    }
+]

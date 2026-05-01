@@ -1,0 +1,33 @@
+[
+    {
+        "name": "SSH",
+        "ports": [
+            22
+        ],
+        "banner_regex": "OpenSSH[_/ ]([0-9.]+)",
+        "min_safe_version": "7.0",
+        "description": "Уязвимые версии OpenSSH до 7.0 имеют множество известных уязвимостей",
+        "compare": "semver"
+    },
+    {
+        "name": "HTTP",
+        "ports": [
+            80,
+            8080
+        ],
+        "banner_regex": "Server:.*Apache/?([0-9.]*)",
+        "min_safe_version": "2.4.50",
+        "description": "Apache версии до 2.4.50 подвержен CVE-2021-41773",
+        "compare": "semver"
+    },
+    {
+        "name": "FTP",
+        "ports": [
+            21
+        ],
+        "banner_regex": "FTP server.*vsFTPd ([0-9.]+)",
+        "min_safe_version": "3.0.3",
+        "description": "Ранние версии vsFTPd имеют уязвимости удаленного выполнения кода",
+        "compare": "semver"
+    }
+]
